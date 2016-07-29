@@ -1,4 +1,4 @@
-# jquery-training
+# gulp-training
 
 ## Installation
 
